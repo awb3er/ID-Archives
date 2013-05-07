@@ -8,6 +8,6 @@ Use `<?php echo id_archives(); ?>` in the templates or `[id-archives]` shortcode
 
 ## TODO
 
-- [ ] Expand archive listing to custom post types.
-- [ ] Maybe an admin page for markup editing.
-- [ ] Options - date based filters etc.
+- Expand archive listing to custom post types.
+- Maybe an admin page for markup editing.
+- Options - date based filters etc.
