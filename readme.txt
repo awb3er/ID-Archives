@@ -1,5 +1,5 @@
 === ID Archives ===
-Contributors: indranil
+Contributors: indranil OMG!
 Tags: archives, simple, chronological
 Requires at least: 3.0.1
 Tested up to: 3.5.1
